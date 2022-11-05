@@ -1,0 +1,25 @@
+{
+  "name": "teammate_rooster-",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nchirico04/teammate_rooster-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nchirico04/teammate_rooster-/issues"
+  },
+  "homepage": "https://github.com/Nchirico04/teammate_rooster-#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "jest": "^28.1.3"
+  }
+}
